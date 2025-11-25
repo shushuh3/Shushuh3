@@ -1,7 +1,7 @@
 # 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 𝘿𝙖𝙣𝙞𝙡 
 
 [![](https://img.shields.io/badge/-@Narotan-%23181717?style=flat-square&logo=github)](https://github.com/Narotan)
-[![](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME)
+
 
 𝑰 ❤️ 𝑩𝒂𝒄𝒌-𝒆𝒏𝒅 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓𝒊𝒏𝒈!
 
