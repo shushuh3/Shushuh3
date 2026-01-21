@@ -31,4 +31,4 @@
 ---
 ## GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Narotan&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shushuh3&theme=radical)
