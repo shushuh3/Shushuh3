@@ -3,7 +3,6 @@
 [![](https://img.shields.io/badge/-@Narotan-%23181717?style=flat-square&logo=github)](https://github.com/Shushuh3)
 
 🐙 Backend developer passionate about Go  
-🐾 2nd-year student in Information Security  
 🏆 actively participate in CTFs and hackathons 
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸
