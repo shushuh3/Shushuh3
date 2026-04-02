@@ -1,6 +1,6 @@
 # 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 𝘿𝙖𝙣𝙞𝙡 
 
-[![](https://img.shields.io/badge/-@Narotan-%23181717?style=flat-square&logo=github)](https://github.com/Shushuh3)
+[![](https://img.shields.io/badge/-@shushuh3-%23181717?style=flat-square&logo=github)](https://github.com/Shushuh3)
 
 🐙 Backend developer passionate about Go  
 🏆 actively participate in CTFs and hackathons 
