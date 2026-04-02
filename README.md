@@ -25,7 +25,7 @@
 
 ## Tools i use
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=apple,arch,linux,go,python,cpp,discord,git,github,docker,"/>
   </a>
