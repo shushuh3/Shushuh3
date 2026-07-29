@@ -2,9 +2,6 @@
 
 [![](https://img.shields.io/badge/-@shushuh3-%23181717?style=flat-square&logo=github)](https://github.com/Shushuh3)
 
-🐙 Backend developer passionate about Go  
-🏆 actively participate in CTFs and hackathons 
-
 ## 𝗠𝘆 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸
 
 ![Go](https://img.shields.io/badge/-Go-%2300ADD8?style=flat-square&logo=go&logoColor=ffffff)
